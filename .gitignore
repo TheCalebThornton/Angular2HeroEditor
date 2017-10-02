@@ -5,6 +5,10 @@
 /tmp
 /out-tsc
 
+# generated JS files
+/**/app/*.js
+/**/app/*.js.map
+
 # dependencies
 /node_modules
 
